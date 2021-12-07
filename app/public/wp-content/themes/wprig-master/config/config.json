@@ -1,0 +1,15 @@
+{
+  "theme": {
+    "slug": "new-rig",
+    "name": "New Rig",
+    "author": "Morten Rand-Hendriksen"
+  },
+  "dev": {
+    "browserSync": {
+      "live": true,
+      "proxyURL": "mythoughts.local",
+      "bypassPort": "8181",
+      "https": true
+    }
+  }
+}
