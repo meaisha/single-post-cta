@@ -38,3 +38,31 @@
 [14-Jan-2022 01:47:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
 [14-Jan-2022 01:49:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/plugins/single-post-cta/single-post-cta.php on line 19
 [14-Jan-2022 01:49:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[14-Jan-2022 02:53:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/plugins/single-post-cta/single-post-cta.php on line 46
+[14-Jan-2022 02:53:15 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[14-Jan-2022 02:55:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/plugins/single-post-cta/single-post-cta.php on line 48
+[14-Jan-2022 02:55:16 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[14-Jan-2022 03:04:53 UTC] PHP Warning:  Use of undefined constant __return_false - assumed '__return_false' (this will throw an Error in a future version of PHP) in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/plugins/single-post-cta/single-post-cta.php on line 28
+[14-Jan-2022 03:04:53 UTC] PHP Stack trace:
+[14-Jan-2022 03:04:53 UTC] PHP   1. {main}() /Users/aisha/Local Sites/mythoughts/app/public/index.php:0
+[14-Jan-2022 03:04:53 UTC] PHP   2. require() /Users/aisha/Local Sites/mythoughts/app/public/index.php:17
+[14-Jan-2022 03:04:53 UTC] PHP   3. require_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-blog-header.php:13
+[14-Jan-2022 03:04:53 UTC] PHP   4. require_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-load.php:50
+[14-Jan-2022 03:04:53 UTC] PHP   5. require_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-config.php:77
+[14-Jan-2022 03:04:53 UTC] PHP   6. include_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-settings.php:409
+[14-Jan-2022 03:04:54 UTC] PHP Warning:  Use of undefined constant __return_false - assumed '__return_false' (this will throw an Error in a future version of PHP) in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/plugins/single-post-cta/single-post-cta.php on line 28
+[14-Jan-2022 03:04:54 UTC] PHP Stack trace:
+[14-Jan-2022 03:04:54 UTC] PHP   1. {main}() /Users/aisha/Local Sites/mythoughts/app/public/index.php:0
+[14-Jan-2022 03:04:54 UTC] PHP   2. require() /Users/aisha/Local Sites/mythoughts/app/public/index.php:17
+[14-Jan-2022 03:04:54 UTC] PHP   3. require_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-blog-header.php:13
+[14-Jan-2022 03:04:54 UTC] PHP   4. require_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-load.php:50
+[14-Jan-2022 03:04:54 UTC] PHP   5. require_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-config.php:77
+[14-Jan-2022 03:04:54 UTC] PHP   6. include_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-settings.php:409
+[14-Jan-2022 03:04:58 UTC] PHP Warning:  Use of undefined constant __return_false - assumed '__return_false' (this will throw an Error in a future version of PHP) in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/plugins/single-post-cta/single-post-cta.php on line 28
+[14-Jan-2022 03:04:58 UTC] PHP Stack trace:
+[14-Jan-2022 03:04:58 UTC] PHP   1. {main}() /Users/aisha/Local Sites/mythoughts/app/public/index.php:0
+[14-Jan-2022 03:04:58 UTC] PHP   2. require() /Users/aisha/Local Sites/mythoughts/app/public/index.php:17
+[14-Jan-2022 03:04:58 UTC] PHP   3. require_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-blog-header.php:13
+[14-Jan-2022 03:04:58 UTC] PHP   4. require_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-load.php:50
+[14-Jan-2022 03:04:58 UTC] PHP   5. require_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-config.php:77
+[14-Jan-2022 03:04:58 UTC] PHP   6. include_once() /Users/aisha/Local Sites/mythoughts/app/public/wp-settings.php:409
