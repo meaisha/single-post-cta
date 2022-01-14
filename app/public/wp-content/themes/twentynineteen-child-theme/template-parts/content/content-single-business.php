@@ -14,7 +14,7 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<?php if ( ! twentynineteen_can_show_post_thumbnail() ) : ?>
 	<header class="entry-header">
-		<?php get_template_part( 'template-parts/header/entry', 'header' ); ?>
+		<?php get_template_part( 'template-parts/header/entry-header', 'business' ); ?>
 	</header>
 	<?php endif; ?>
 
@@ -43,6 +43,10 @@
 			)
 		);
 		?>
+		<section class="related-events">
+			<h3><?php _e( 'Upcoming Events', 'twentynineteen'); ?></h3>
+			<?php lil_show_events(); ?>
+		</section>
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
