@@ -34,3 +34,7 @@
 [10-Jan-2022 21:26:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/themes/twentynineteen-child-theme/functions.php on line 25
 [10-Jan-2022 21:28:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/themes/twentynineteen-child-theme/functions.php on line 25
 [10-Jan-2022 22:03:13 UTC] PHP Parse error:  syntax error, unexpected 'lil_child_enqueue_styles' (T_STRING), expecting '(' in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/themes/twentynineteen-child-theme/functions.php on line 5
+[14-Jan-2022 01:47:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/plugins/single-post-cta/single-post-cta.php on line 19
+[14-Jan-2022 01:47:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[14-Jan-2022 01:49:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/aisha/Local Sites/mythoughts/app/public/wp-content/plugins/single-post-cta/single-post-cta.php on line 19
+[14-Jan-2022 01:49:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
